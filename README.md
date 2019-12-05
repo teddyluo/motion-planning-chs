@@ -3,7 +3,7 @@
 
 《A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles》(English)
 
-《无人驾驶车辆的运动规划和控制技术综述》 (Chinese)
+《城市道路自动驾驶车辆运动规划和控制技术综述》 (Chinese)
 
 
 ## Introduction

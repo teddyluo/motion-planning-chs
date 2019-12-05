@@ -1,3 +1,8 @@
+#ignored folders
+./1604.07446
+./old-docs
+./old-versions
+./back-up
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
